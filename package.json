@@ -1,0 +1,37 @@
+{
+  "name": "react-new-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@supabase/supabase-js": "^2.102.1",
+    "canvg": "^4.0.3",
+    "dompurify": "^3.3.3",
+    "html2canvas": "1.4.1",
+    "jspdf": "4.2.1",
+    "lucide-react": "1.7.0",
+    "qrcode.react": "^4.2.0",
+    "react": "16.14.0",
+    "react-dom": "16.14.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
